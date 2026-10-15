@@ -1,15 +1,3 @@
-# Analysis of the existing base (api/ and web/) — reuse decisions
-
-> Date: 2026-08-26. Companion to [initial.md](./initial.md) (the design spec).
-> This document answers the open item in section 10.8 of the spec: analyse the candidate's two
-> templates and decide what is reused, what is adapted and what is removed.
->
-> **This is a dated snapshot, not living documentation.** It records the state of both templates on
-> the day the project started and the decisions taken from it. Several of those decisions were
-> later superseded — where that happened, the note says so.
-
----
-
 ## 1. What each template is
 
 | Repo | What it really is | State |
