@@ -1,4 +1,4 @@
-# Code Challenge — E-Commerce
+# E-Commerce
 
 Enterprise-grade e-commerce: a public storefront, product CRUD, CSV import, search, and a purchase
 flow with a faked payment.
